@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\obj\Debug\Shop.DataBase.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\obj\Debug\Shop.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\bin\Debug\Shop.DataBase.dll.config
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\bin\Debug\Shop.DataBase.dll
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\bin\Debug\Shop.DataBase.pdb
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\bin\Debug\Shop.Entity.dll
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\bin\Debug\Shop.Entity.pdb
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\obj\Debug\Shop.DataBase.csproj.CopyComplete
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\obj\Debug\Shop.DataBase.dll
+C:\Users\admin\source\repos\Test\nitochka-ac\Test\Shop.DataBase\obj\Debug\Shop.DataBase.pdb
